@@ -1,5 +1,8 @@
 _repo: Home-Canning-of-Meat-and-Poultry_63056
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63056-h/images/cover.jpg
 creator:
   author:
     agent_name: United States. Agricultural Research Service. Consumer and Food Economics
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '52262'
     url: http://www.gutenberg.org/2009/agents/52262
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63056#Home-Canning-of-Meat-and-Poultry
 gutenberg_issued: '2020-08-27'
 gutenberg_type: Text
 identifiers:
